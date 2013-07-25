@@ -12,7 +12,7 @@ public class SimulateInfobrightDate {
 	private long m_adgroup_id;
 	private long m_line_id;
 	private long m_material_id;
-
+//test git 
 	public long get_source_id() {
 		return m_source_id;
 	}
