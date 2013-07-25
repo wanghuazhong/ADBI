@@ -658,6 +658,8 @@ public class SimulateInfobrightDate {
 		String date = new String("0");
 		int timeLength = time.length - 1;
 		String adType = new String("1");
+		
+		String test = new String("2");
 
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
 				new FileOutputStream("F:\\infobrigth.txt")));
